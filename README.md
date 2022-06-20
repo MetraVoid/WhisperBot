@@ -50,7 +50,7 @@ If there is an error in this repository, please report it to [MetraVoid_Support]
 <summary><b> CLICK HERE </b></summary>
 <br>
 
-- [Akira](https://github.com/Akira-OP)
+- [Akira](https://github.com/Akira-OP) - Owner
 - [Null-Coder](https://github.com/Shubhanshutya) - Dev
 - [Axel](https://github.com/AXELXDEV) - Dev
 - [Zaid](https://github.com/ITZ-zaid) - Dev
